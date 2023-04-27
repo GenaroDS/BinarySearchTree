@@ -46,20 +46,15 @@ public class Tree {
         if (root == null)
             return;
 
-        // Increase distance between levels  
         space += count;
 
-        // Process right child first 
         printTree(root.right, space);
 
-        // Print current node after space  
-        // count 
         System.out.println();
         for (int i = count; i < space; i++) 
             System.out.print(" ");
         System.out.println(root.key);
-
-        // Process left child 
+        
         printTree(root.left, space);
     }
 
