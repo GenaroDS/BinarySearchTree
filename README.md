@@ -12,5 +12,5 @@ In the example, the numbers 4, 2, 6, 0, and 8 are inserted into the tree, follow
 
 <p align="center">
   <img src="screenshots/code.png" height="500" alt="Image 1">
-  <img src="screenshots/console.png" height="550" alt="Image 2">
+  <img src="screenshots/console.png" height="575" alt="Image 2">
 </p>
