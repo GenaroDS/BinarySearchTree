@@ -11,6 +11,6 @@ The Main class provides an example of how to use the Tree class to create a bina
 In the example, the numbers 4, 2, 6, 0, and 8 are inserted into the tree, followed by 7, 9, 1, and 3. The resulting tree is properly ordered and contains all of the added values. Overall, the implementation provides a modular and efficient way to represent and manipulate binary trees in Java.  
 
 <p align="center">
-  <img src="screenshots/code.png" height="500" alt="Image 1">
+  <img src="screenshots/code.png"  alt="Image 1">
   <img src="screenshots/console.png" height="575" alt="Image 2">
 </p>
