@@ -9,6 +9,6 @@ The Main class provides an example of how to use the Tree class to create a bina
 ## Screenshots  
 
 <p align="center">
-  <img src="screenshots/code.png" height="650" alt="Image 1">
-  <img src="screenshots/console.png" height="650" alt="Image 2">
+  <img src="screenshots/code.png" height="550" alt="Image 1">
+  <img src="screenshots/console.png" height="550" alt="Image 2">
 </p>
