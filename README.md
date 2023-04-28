@@ -5,10 +5,10 @@ The insertion method inserts into the tree in an orderly manner, maintaining the
 
 ## Screenshots  
 
-In the example, we first add the numbers 4, 2, 6, 0 and 8:
+In the example, we first add the numbers 4, 2, 6, 0 and 8:  
 <img src="screenshots/code1.png"  alt="code1">
   
-Followed by 7, 9, 1, and 3. 
+Followed by 7, 9, 1, and 3:  
 <img src="screenshots/code2.png"  alt="code2">
 
 The resulting tree is properly ordered and contains all of the added values.
