@@ -1,8 +1,6 @@
 # BinarySearchTree
 
-This is binary search tree implemented in Java without libraries.  
-The Node class represents a single node in the tree, with a key value and pointers to left and right child nodes. 
-The Tree class includes methods for insertion, search, and printing the tree in the console.
+This is binary search tree implemented in Java without libraries. Consisting on 2 classes: Node and Tree. The Node class represents a single node in the tree, with a key value and pointers to left and right child nodes. The Tree class includes methods for insertion, search, and printing the tree in the console.  
 The insertion method inserts into the tree in an orderly manner, maintaining the binary search tree property. Meanwhile, the search method utilizes binary search for efficiency. 
 
 ## Screenshots  
