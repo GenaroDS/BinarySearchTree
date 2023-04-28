@@ -5,9 +5,12 @@ The insertion method inserts into the tree in an orderly manner, maintaining the
 
 ## Screenshots  
 
-In the example, the numbers 4, 2, 6, 0, and 8 are inserted into the tree, followed by 7, 9, 1, and 3. The resulting tree is properly ordered and contains all of the added values. Overall, the implementation provides a modular and efficient way to represent and manipulate binary trees in Java.  
+In the example, we first add the numbers 4, 2, 6, 0 and 8:
+<img src="screenshots/code1.png.png"  alt="code1">
+  
+Followed by 7, 9, 1, and 3. 
+<img src="screenshots/code2.png.png"  alt="code2">
 
-<p align="center">
-  <img src="screenshots/console.png" height="575" alt="console">
-  <img src="screenshots/code.png"  alt="code">
+The resulting tree is properly ordered and contains all of the added values.
+
 </p>
