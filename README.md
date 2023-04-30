@@ -7,9 +7,9 @@ The insertion method inserts into the tree in an orderly manner, maintaining the
 
 Here you can check it's functionality. The resulting tree is properly ordered and contains all of the added values.
 <p align="center">
-  <img src="screenshots/code1.png" alt="code1" width="45%">
+  <img src="screenshots/code1.png" alt="code1" >
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="screenshots/code2.png" alt="code2" width="45%">
+  <img src="screenshots/code2.png" alt="code2" >
 </p>
 
 
